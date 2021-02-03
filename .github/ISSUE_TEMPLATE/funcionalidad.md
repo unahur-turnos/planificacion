@@ -1,17 +1,17 @@
 ---
-name: Tarea
-about: Crear una nueva tarea en este proyecto.
+name: Nueva funcionalidad
+about: Solicitar el desarrollo de una nueva funcionalidad.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Borrar las secciones que no se usen. :smiley:**
+> Borrar las secciones que no se usen. :smiley:
 
 # :heavy_check_mark: Objetivos
 
-(Contar brevemente qué problema resuelve o qué funcionalidad agrega esta tarea.)
+(Contar brevemente qué problema resuelve o qué funcionalidad agrega esta tarea, desde el punto de vista del usuario.)
 
 # :technologist: Notas para el desarrollo
 
